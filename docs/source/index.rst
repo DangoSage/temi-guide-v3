@@ -87,9 +87,6 @@ This guide provides some examples of using `temi's SDK <https://github.com/robot
    technician/04_boot_commands
    technician/05_key_commands
 
-
-   test/01_android_test
-
 .. Indices and tables
 .. ==================
 
